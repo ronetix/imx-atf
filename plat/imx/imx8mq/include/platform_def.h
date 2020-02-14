@@ -22,8 +22,8 @@
 #define PLAT_WAIT_OFF_STATE		2
 #define PLAT_STOP_OFF_STATE		3
 
-#define BL31_BASE			0x910000
-#define BL31_LIMIT			0x920000
+#define BL31_BASE			0x900000
+#define BL31_LIMIT			0x910000
 #define BL32_BASE			0xfe000000
 
 /* non-secure uboot base */
